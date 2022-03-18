@@ -1,0 +1,11 @@
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.Properties.Resources.resources
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\bin\Debug\TinyLangCompiler.exe.config
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\bin\Debug\TinyLangCompiler.exe
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\bin\Debug\TinyLangCompiler.pdb
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.exe
+C:\Users\Pc\source\repos\TinyLangCompiler\TinyLangCompiler\obj\Debug\TinyLangCompiler.pdb
